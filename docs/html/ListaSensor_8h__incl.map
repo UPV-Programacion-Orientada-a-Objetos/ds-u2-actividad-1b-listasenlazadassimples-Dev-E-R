@@ -1,0 +1,7 @@
+<map id="ListaSensor.h" name="ListaSensor.h">
+<area shape="rect" id="Node000001" title="Implementacion de lista enlazada simple generica." alt="" coords="35,5,143,31"/>
+<area shape="rect" id="Node000002" href="$Nodo_8h.html" title="Estructura de nodo generico para lista enlazada." alt="" coords="5,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,33,57,69,53,66,78,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,79,178,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,29,124,66,120,69,95,33"/>
+</map>

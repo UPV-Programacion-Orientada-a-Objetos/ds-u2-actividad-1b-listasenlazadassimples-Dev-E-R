@@ -1,0 +1,5 @@
+<map id="capturarDatosHardware" name="capturarDatosHardware">
+<area shape="rect" id="Node000001" title="Captura datos del dispositivo Arduino mediante comunicacion serial." alt="" coords="5,5,183,31"/>
+<area shape="rect" id="Node000002" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title=" " alt="" coords="231,5,329,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,15,217,15,217,21,183,21"/>
+</map>

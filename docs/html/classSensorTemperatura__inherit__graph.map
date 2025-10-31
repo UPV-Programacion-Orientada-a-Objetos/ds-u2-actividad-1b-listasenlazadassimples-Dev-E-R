@@ -1,0 +1,6 @@
+<map id="SensorTemperatura" name="SensorTemperatura">
+<area shape="rect" id="Node000001" title="Clase especializada para dispositivos termicos." alt="" coords="5,199,181,484"/>
+<area shape="rect" id="Node000002" href="$classSensorBase.html" title=" " alt="" coords="22,5,165,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,165,87,199,82,198,82,164"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="105,164,105,198,100,199,99,165"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Funcion principal del programa." alt="" coords="5,56,60,81"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a827e3102c72ebdca7a036ab89b8fef98" title="Captura datos del dispositivo Arduino mediante comunicacion serial." alt="" coords="108,5,285,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,58,141,32,142,37,61,63"/>
+<area shape="rect" id="Node000003" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title=" " alt="" coords="333,56,432,81"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="60,66,319,66,319,71,60,71"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a86b4f33567a2ab57734bc648c3f031ba" title="Despliega el menu principal de opciones del sistema." alt="" coords="135,107,258,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="61,74,142,100,141,105,59,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,28,323,50,321,55,244,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="244,104,321,83,323,88,245,109"/>
+</map>

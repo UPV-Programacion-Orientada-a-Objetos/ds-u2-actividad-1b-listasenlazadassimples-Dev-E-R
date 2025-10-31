@@ -1,0 +1,47 @@
+<map id="main.cpp" name="main.cpp">
+<area shape="rect" id="Node000001" title="Programa principal del sistema de gestion de sensores IoT." alt="" coords="446,5,529,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="307,225,387,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,31,493,59,491,98,483,140,464,179,436,206,402,224,399,219,432,201,460,176,478,138,486,97,488,59,486,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="525,152,583,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="495,30,545,138,541,141,490,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="737,79,811,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="530,27,724,75,723,80,528,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="835,79,894,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="529,23,657,43,822,76,821,81,656,49,529,28"/>
+<area shape="rect" id="Node000006" href="$SensorBase_8h.html" title="Clase base abstracta para todos los sensores del sistema." alt="" coords="339,152,449,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="482,33,411,142,407,139,477,30"/>
+<area shape="rect" id="Node000008" href="$SensorTemperatura_8h.html" title="Implementacion de sensor termico para mediciones de temperatura." alt="" coords="239,79,399,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="461,33,360,76,358,71,459,28"/>
+<area shape="rect" id="Node000009" href="$ListaSensor_8h.html" title="Implementacion de lista enlazada simple generica." alt="" coords="5,152,113,177"/>
+<area shape="poly" id="edge20_Node000001_Node000009" title=" " alt="" coords="446,22,356,25,245,33,143,51,104,64,77,81,68,93,63,107,60,138,54,138,58,106,63,90,74,77,101,59,141,46,245,28,355,19,446,17"/>
+<area shape="rect" id="Node000012" href="$SensorPresion_8h.html" title="Implementacion de sensor barometrico para mediciones de presion." alt="" coords="88,79,215,104"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="446,31,219,78,218,73,445,25"/>
+<area shape="rect" id="Node000013" href="$SerialPort_8h.html" title="Clase para comunicacion serial con dispositivos externos." alt="" coords="615,79,712,104"/>
+<area shape="poly" id="edge21_Node000001_Node000013" title=" " alt="" coords="517,28,623,71,621,76,515,33"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="389,179,365,215,360,212,384,176"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="745,225,811,251"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="450,174,731,225,730,231,449,179"/>
+<area shape="poly" id="edge13_Node000008_Node000002" title=" " alt="" coords="322,104,324,137,330,177,340,212,335,213,325,178,319,138,317,104"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="333,102,374,141,370,144,329,106"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="278,107,115,151,114,146,277,101"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="189,152,263,177"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="306,106,254,146,250,141,303,102"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="106,175,295,221,293,226,105,180"/>
+<area shape="rect" id="Node000010" href="$Nodo_8h.html" title="Estructura de nodo generico para lista enlazada." alt="" coords="25,225,93,251"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="62,178,62,212,57,212,57,178"/>
+<area shape="poly" id="edge18_Node000012_Node000002" title=" " alt="" coords="154,104,160,139,167,159,179,176,204,196,234,211,295,228,293,234,232,216,201,201,175,179,162,161,155,141,149,105"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="191,101,343,146,341,151,190,107"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="138,106,87,146,83,141,135,102"/>
+<area shape="poly" id="edge19_Node000012_Node000011" title=" " alt="" coords="165,102,206,141,202,144,161,106"/>
+<area shape="poly" id="edge24_Node000013_Node000002" title=" " alt="" coords="659,106,636,143,618,163,597,180,548,204,496,220,446,231,401,237,400,231,445,226,495,215,546,199,594,175,614,159,631,139,655,103"/>
+<area shape="poly" id="edge22_Node000013_Node000003" title=" " alt="" coords="647,106,585,147,582,142,644,102"/>
+<area shape="poly" id="edge28_Node000013_Node000007" title=" " alt="" coords="713,99,725,101,797,106,891,110,938,114,981,121,1017,133,1041,150,1050,163,1054,176,1052,187,1046,197,1023,212,990,223,906,235,825,239,825,234,905,230,988,218,1021,207,1042,193,1047,185,1049,176,1046,166,1037,154,1014,137,980,126,938,119,891,115,797,112,724,107,712,104"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="659,152,732,177"/>
+<area shape="poly" id="edge23_Node000013_Node000014" title=" " alt="" coords="671,103,687,139,682,141,666,105"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="756,152,819,177"/>
+<area shape="poly" id="edge25_Node000013_Node000015" title=" " alt="" coords="685,102,757,143,754,147,682,106"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="843,152,918,177"/>
+<area shape="poly" id="edge26_Node000013_Node000016" title=" " alt="" coords="699,101,833,145,832,150,697,107"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="943,152,1027,177"/>
+<area shape="poly" id="edge27_Node000013_Node000017" title=" " alt="" coords="713,101,930,149,929,154,712,106"/>
+</map>

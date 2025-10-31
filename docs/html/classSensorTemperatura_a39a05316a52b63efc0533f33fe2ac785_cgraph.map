@@ -1,0 +1,5 @@
+<map id="SensorTemperatura::agregarLectura" name="SensorTemperatura::agregarLectura">
+<area shape="rect" id="Node000001" title="Incorpora una nueva medicion al registro." alt="" coords="5,5,161,45"/>
+<area shape="rect" id="Node000002" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title=" " alt="" coords="209,13,308,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,23,195,23,195,28,161,28"/>
+</map>

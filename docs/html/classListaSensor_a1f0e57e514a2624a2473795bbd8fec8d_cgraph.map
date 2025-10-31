@@ -1,0 +1,8 @@
+<map id="ListaSensor::~ListaSensor" name="ListaSensor::~ListaSensor">
+<area shape="rect" id="Node000001" title="Destructor." alt="" coords="5,5,196,31"/>
+<area shape="rect" id="Node000002" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title=" " alt="" coords="437,5,536,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,15,423,15,423,21,196,21"/>
+<area shape="rect" id="Node000003" href="$classListaSensor.html#a0692f98d97e5dba908544c5bf7d1e8ff" title="Elimina todos los elementos de la lista." alt="" coords="244,31,389,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,27,230,31,230,36,196,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="389,30,424,25,424,30,390,35"/>
+</map>

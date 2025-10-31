@@ -1,0 +1,11 @@
+<map id="ListaSensor.h" name="ListaSensor.h">
+<area shape="rect" id="Node000001" title="Implementacion de lista enlazada simple generica." alt="" coords="116,5,224,31"/>
+<area shape="rect" id="Node000002" href="$SensorPresion_8h.html" title="Implementacion de sensor barometrico para mediciones de presion." alt="" coords="5,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,41,87,81,84,76,141,36"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="Programa principal del sistema de gestion de sensores IoT." alt="" coords="129,152,211,177"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="173,45,173,152,167,152,167,45"/>
+<area shape="rect" id="Node000004" href="$SensorTemperatura_8h.html" title="Implementacion de sensor termico para mediciones de temperatura." alt="" coords="207,79,367,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,35,270,76,267,81,199,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,110,155,150,152,154,95,114"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="258,113,191,154,188,149,255,109"/>
+</map>

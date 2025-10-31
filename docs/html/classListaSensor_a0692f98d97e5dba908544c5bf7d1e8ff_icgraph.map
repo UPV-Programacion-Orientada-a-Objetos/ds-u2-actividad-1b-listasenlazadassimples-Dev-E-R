@@ -1,0 +1,7 @@
+<map id="ListaSensor::vaciar" name="ListaSensor::vaciar">
+<area shape="rect" id="Node000001" title="Elimina todos los elementos de la lista." alt="" coords="244,31,389,56"/>
+<area shape="rect" id="Node000002" href="$classListaSensor.html#a25ba6f551edf6e007ce42cd3da4c8d8b" title="Operador de asignacion por copia." alt="" coords="15,5,186,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,36,186,31,187,25,230,31"/>
+<area shape="rect" id="Node000003" href="$classListaSensor.html#a1f0e57e514a2624a2473795bbd8fec8d" title="Destructor." alt="" coords="5,55,196,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,56,196,59,196,54,230,50"/>
+</map>

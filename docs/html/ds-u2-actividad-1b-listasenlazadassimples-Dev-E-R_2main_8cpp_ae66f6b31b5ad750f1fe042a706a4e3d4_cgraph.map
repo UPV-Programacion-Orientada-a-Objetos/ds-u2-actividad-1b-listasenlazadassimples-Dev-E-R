@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,60,107"/>
+<area shape="rect" id="Node000002" href="$ds-u2-actividad-1b-listasenlazadassimples-Dev-E-R_2main_8cpp.html#af876e357b5cc67777046d2e085d45bd4" title=" " alt="" coords="123,5,262,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,79,107,48,140,33,143,38,109,52,55,83"/>
+<area shape="rect" id="Node000003" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title=" " alt="" coords="325,81,424,107"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="60,91,312,91,312,97,60,97"/>
+<area shape="rect" id="Node000004" href="$ds-u2-actividad-1b-listasenlazadassimples-Dev-E-R_2main_8cpp.html#ac0aca0f34a52fbe7527a03517bc3347e" title=" " alt="" coords="138,107,247,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="61,96,124,106,123,111,60,101"/>
+<area shape="rect" id="Node000005" href="$ds-u2-actividad-1b-listasenlazadassimples-Dev-E-R_2main_8cpp.html#ae5066d83a6e8067ab9aaabb5bf086f94" title=" " alt="" coords="108,156,277,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="52,105,78,123,109,141,129,149,127,154,107,146,75,128,49,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,28,278,48,335,73,333,78,276,52,228,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="247,109,311,100,312,105,248,114"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="240,153,276,141,339,111,341,116,278,146,242,158"/>
+</map>
